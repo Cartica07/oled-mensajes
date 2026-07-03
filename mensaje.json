@@ -1,12 +1,12 @@
 {
   "version": 2,
   "pantalla": {
-    "texto": "Este es un texto largo para probar el cambio linea",
+    "texto": "Este es un texto largo para probar el scroll deslizante",
     "config": {
-      "tamano": 1,
+      "tamano": 2,
       "alineacion": "izquierda",
       "invertido": false,
-      "modoTexto": "ajustar"
+      "modoTexto": "scroll"
     }
   }
 }
