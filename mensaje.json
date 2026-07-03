@@ -1,12 +1,12 @@
 {
-  "version": 3,
+  "version": 2,
   "pantalla": {
-    "texto": "Texto largo de prueba",
+    "texto": "Este es un texto largo para probar el cambio linea",
     "config": {
-      "tamano": 3,
-      "alineacion": "centro",
+      "tamano": 1,
+      "alineacion": "izquierda",
       "invertido": false,
-      "modoTexto": "reducir"
+      "modoTexto": "ajustar"
     }
   }
 }
