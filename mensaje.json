@@ -1,6 +1,6 @@
 {
-  "texto":"Hola Alex",
-  "tamano":1,
-  "alineacion":"derecha",
-  "invertido":true
+  "texto":"Alex",
+  "tamano":2,
+  "alineacion":"centro",
+  "invertido":false
 }
