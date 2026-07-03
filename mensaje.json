@@ -1,9 +1,9 @@
 {
-  "version": 2,
+  "version": 1,
   "pantalla": {
-    "texto": "Hola Mundo",
+    "texto": "Alex",
     "config": {
-      "tamano": 1,
+      "tamano": 3,
       "alineacion": "centro",
       "invertido": false,
       "modoTexto": "ajustar"
