@@ -1,3 +1,6 @@
 {
-  "texto": "Hola Lorena"
+  "texto":"Hola Alex",
+  "tamano":3,
+  "alineacion":"derecha",
+  "invertido":true
 }
