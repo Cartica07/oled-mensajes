@@ -1,6 +1,12 @@
 {
-  "texto":"Alex",
-  "tamano":2,
-  "alineacion":"centro",
-  "invertido":false
+  "version": 1,
+  "pantalla": {
+    "texto": "Hola Mundo",
+    "config": {
+      "tamano": 2,
+      "alineacion": "centro",
+      "invertido": false,
+      "modoTexto": "ajustar"
+    }
+  }
 }
