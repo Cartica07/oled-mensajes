@@ -1,7 +1,7 @@
 {
   "version": 3,
   "pantalla": {
-    "texto": "Texto largo de prueba para tamaño automatico",
+    "texto": "Texto largo",
     "config": {
       "tamano": 3,
       "alineacion": "centro",
