@@ -4,7 +4,7 @@
     "texto": "Alex",
     "config": {
       "tamano": 3,
-      "alineacion": "derecha",
+      "alineacion": "izquierda",
       "invertido": false,
       "modoTexto": "ajustar"
     }
