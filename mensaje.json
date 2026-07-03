@@ -1,9 +1,9 @@
 {
-  "version": 1,
+  "version": 2,
   "pantalla": {
-    "texto": "Alex",
+    "texto": "Este es un texto largo para probar el cambio linea",
     "config": {
-      "tamano": 3,
+      "tamano": 1,
       "alineacion": "izquierda",
       "invertido": false,
       "modoTexto": "ajustar"
