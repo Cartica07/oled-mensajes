@@ -1,7 +1,7 @@
 {
   "version": 3,
   "pantalla": {
-    "texto": "Texto largo",
+    "texto": "Texto largo, a ver si aun sirve el scroll sin fallas y cortes",
     "config": {
       "tamano": 3,
       "alineacion": "derecha",
