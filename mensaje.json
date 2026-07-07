@@ -4,9 +4,9 @@
     "texto": "Texto largo",
     "config": {
       "tamano": 3,
-      "alineacion": "centro",
+      "alineacion": "derecha",
       "invertido": false,
-      "modoTexto": "reducir"
+      "modoTexto": "scroll"
     }
   }
 }
