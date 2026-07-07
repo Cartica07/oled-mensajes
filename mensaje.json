@@ -3,7 +3,7 @@
   "pantalla": {
     "texto": "Texto largo, a ver si aun sirve el scroll sin fallas y cortes",
     "config": {
-      "tamano": 3,
+      "tamano": 2,
       "alineacion": "derecha",
       "invertido": false,
       "modoTexto": "scroll"
